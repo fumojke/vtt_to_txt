@@ -1,0 +1,6 @@
+__pycache__/
+cleaned_notes/
+*.vtt
+*.txt
+.idea/
+.venv/
